@@ -8,8 +8,8 @@
   justify-content: flex-start;
 }
 .home-link {
-  top: 44px;
-  left: 63px;
+  top: 361px;
+  left: 41px;
   color: var(--dl-color-gray-black);
   width: 485px;
   height: 306px;
@@ -23,8 +23,8 @@
   background-color: rgb(255, 0, 0);
 }
 .home-container1 {
-  top: 89px;
-  left: 75px;
+  top: 406px;
+  left: 53px;
   width: 459px;
   height: 246px;
   display: flex;
@@ -43,8 +43,14 @@
   margin-left: var(--dl-space-space-threeunits);
 }
 .home-code-embed {
-  top: 172px;
-  right: 0px;
+  top: 264px;
+  right: 23px;
   position: absolute;
   padding-top: Infinitypx;
+}
+.home-pasted-image {
+  top: -4px;
+  left: 369px;
+  width: 842px;
+  position: absolute;
 }
