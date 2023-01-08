@@ -48,9 +48,11 @@
   position: absolute;
   padding-top: Infinitypx;
 }
-.home-pasted-image {
-  top: -4px;
-  left: 369px;
-  width: 842px;
+.home-image1 {
+  top: -1px;
+  left: 343px;
+  width: 878px;
+  height: 195px;
   position: absolute;
+  object-fit: cover;
 }
