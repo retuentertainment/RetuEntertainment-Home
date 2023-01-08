@@ -3,13 +3,13 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
   justify-content: flex-start;
 }
 .home-link {
-  top: 361px;
-  left: 41px;
+  top: 253px;
+  left: 48px;
   color: var(--dl-color-gray-black);
   width: 485px;
   height: 306px;
@@ -23,8 +23,8 @@
   background-color: rgb(255, 0, 0);
 }
 .home-container1 {
-  top: 406px;
-  left: 53px;
+  top: 298px;
+  left: 60px;
   width: 459px;
   height: 246px;
   display: flex;
@@ -35,9 +35,9 @@
 }
 .home-image {
   left: -50px;
-  width: 459px;
+  width: 460px;
   bottom: -6px;
-  height: 246px;
+  height: 256px;
   position: absolute;
   object-fit: cover;
   margin-left: var(--dl-space-space-threeunits);
@@ -49,10 +49,51 @@
   padding-top: Infinitypx;
 }
 .home-image1 {
-  top: -1px;
-  left: 343px;
+  top: -6px;
+  left: 490px;
   width: 878px;
   height: 195px;
   position: absolute;
   object-fit: cover;
+}
+.home-image2 {
+  top: 42px;
+  left: 22px;
+  width: 127px;
+  height: 86px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-image3 {
+  top: -6px;
+  left: 490px;
+  width: 878px;
+  height: 195px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-button {
+  top: 46px;
+  left: 169px;
+  width: 135px;
+  height: 73px;
+  display: flex;
+  position: absolute;
+  font-size: 22px;
+  padding-top: 0px;
+  padding-left: 18px;
+  flex-direction: row;
+  padding-bottom: 18px;
+  background-color: #1600dc;
+}
+.home-text {
+  top: 1px;
+  right: 18px;
+  position: absolute;
+}
+.home-button1 {
+  top: 573px;
+  left: 46px;
+  position: absolute;
+  background-color: rgb(249, 241, 6);
 }
