@@ -8,8 +8,8 @@
   justify-content: flex-start;
 }
 .home-link {
-  top: 253px;
-  left: 48px;
+  top: 321px;
+  left: 52px;
   color: var(--dl-color-gray-black);
   width: 485px;
   height: 306px;
@@ -23,8 +23,8 @@
   background-color: rgb(255, 0, 0);
 }
 .home-container1 {
-  top: 298px;
-  left: 60px;
+  top: 366px;
+  left: 64px;
   width: 459px;
   height: 246px;
   display: flex;
@@ -48,59 +48,17 @@
   position: absolute;
   padding-top: Infinitypx;
 }
-.home-image1 {
-  top: -6px;
-  left: 490px;
-  width: 878px;
-  height: 195px;
-  position: absolute;
-  object-fit: cover;
-}
-.home-image2 {
-  top: 42px;
-  left: 22px;
-  width: 127px;
-  height: 86px;
-  position: absolute;
-  object-fit: cover;
-}
-.home-image3 {
-  top: -6px;
-  left: 490px;
-  width: 878px;
-  height: 195px;
-  position: absolute;
-  object-fit: cover;
-}
 .home-button {
-  top: 46px;
-  left: 169px;
-  width: 135px;
-  height: 73px;
-  display: flex;
-  position: absolute;
-  font-size: 22px;
-  padding-top: 0px;
-  padding-left: 18px;
-  flex-direction: row;
-  padding-bottom: 18px;
-  background-color: #1600dc;
-}
-.home-text {
-  top: 1px;
-  right: 18px;
-  position: absolute;
-}
-.home-button1 {
-  top: 573px;
-  left: 46px;
+  top: 644px;
+  left: 52px;
   position: absolute;
   background-color: rgb(249, 241, 6);
 }
-.home-container2 {
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 212px;
-  display: flex;
-  align-items: flex-start;
+.home-image1 {
+  top: 3px;
+  left: 642px;
+  width: 761px;
+  height: 245px;
+  position: absolute;
+  object-fit: cover;
 }
