@@ -3,7 +3,7 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: flex-start;
+  align-items: center;
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -96,4 +96,11 @@
   left: 46px;
   position: absolute;
   background-color: rgb(249, 241, 6);
+}
+.home-container2 {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 212px;
+  display: flex;
+  align-items: flex-start;
 }
